@@ -17,9 +17,7 @@ QA Engineer (SDET) | Java Developer | AI Enthusiast | Full Stack Developer in Pr
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-sn-aug&layout=compact&theme=tokyonight)
 
-## 🏆 Achievements
 
-![](https://github-profile-trophy.vercel.app/?username=Rohit-sn-aug&theme=algolia&row=1&column=7)
 
 ## 🛠 Tech Stack
 
@@ -75,11 +73,6 @@ QA Engineer (SDET) | Java Developer | AI Enthusiast | Full Stack Developer in Pr
 - Exploring Test Automation
 - Contributing to Open Source
 
-## 🚀 Featured Repositories
-
-<a href="https://github.com/Rohit-sn-aug">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit-sn-aug&repo=YOUR_REPO_NAME&theme=tokyonight" />
-</a>
 
 ## 🏅 Certifications
 
