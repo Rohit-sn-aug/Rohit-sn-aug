@@ -67,43 +67,32 @@ QA Engineer (SDET) | Java Developer | AI Enthusiast | Full Stack Developer in Pr
 </a>
 </p>
 
-name: Generate Snake
+## 🎯 Current Focus
 
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+- Exploring Data Engineering concepts
+- Learning Java & Spring Boot
+- Improving API Testing Skills
+- Exploring Test Automation
+- Contributing to Open Source
 
-permissions:
-  contents: write
+## 🚀 Featured Repositories
 
-jobs:
-  generate:
-    runs-on: ubuntu-latest
+<a href="https://github.com/Rohit-sn-aug">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Rohit-sn-aug&repo=YOUR_REPO_NAME&theme=tokyonight" />
+</a>
 
-    steps:
-      - name: Generate snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: Rohit-sn-aug
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+## 🏅 Certifications
 
-      - name: Push snake
-        uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+- NPTEL - Software Testing
+- NPTEL - Programming with Java
+- NPTEL - Python for Data Science
+- NPTEL - Joy of Computing Using Python
 
-## 🐍 Contribution Snake
+![Metrics](https://metrics.lecoq.io/Rohit-sn-aug)
 
-![Snake animation](https://raw.githubusercontent.com/Rohit-sn-aug/Rohit-sn-aug/output/github-contribution-grid-snake.svg)
+## 💭 Developer Mindset
 
-
-
+"First make it work, then make it right, then make it fast."
 <!--
 **Rohit-sn-aug/Rohit-sn-aug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
