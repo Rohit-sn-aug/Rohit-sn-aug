@@ -1,4 +1,15 @@
 <h1 align="center">Hi 👋, I'm Rohit Singh</h1>
+
+<h3 align="center">
+QA Engineer (SDET) | Computer Science Student | Java Developer | AI Enthusiast
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=QA+Engineer+(SDET);Computer+Science+Student;Java+Developer;Full+Stack+Developer+in+Progress;AI+%26+Machine+Learning+Enthusiast" />
+</p>
+
+
+<h1 align="center">Hi 👋, I'm Rohit Singh</h1>
 <h3 align="center">QA Engineer | Learning Java | Future Full Stack Developer 🚀</h3>
 
 <img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
