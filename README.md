@@ -71,31 +71,36 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
-
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: Platane/snk@v3
+      - name: Generate snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Rohit-sn-aug
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - uses: crazy-max/ghaction-github-pages@v4
+      - name: Push snake
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-
 ## 🐍 Contribution Snake
 
-![Snake animation](https://github.com/Rohit-sn-aug/Rohit-sn-aug/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/Rohit-sn-aug/Rohit-sn-aug/output/github-contribution-grid-snake.svg)
 
 
 
