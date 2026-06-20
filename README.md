@@ -88,7 +88,8 @@ QA Engineer (SDET) | Java Developer | AI Enthusiast | Full Stack Developer in Pr
 - NPTEL - Python for Data Science
 - NPTEL - Joy of Computing Using Python
 
-![Metrics](https://metrics.lecoq.io/Rohit-sn-aug)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rohit-sn-aug&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-sn-aug&layout=compact&theme=tokyonight)
 
 ## 💭 Developer Mindset
 
