@@ -9,7 +9,7 @@ QA Engineer (SDET) | Java Developer | AI Enthusiast | Full Stack Developer in Pr
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=700&lines=QA+Engineer+(SDET);Java+Developer;AI+%26+ML+Enthusiast;Future+Full+Stack+Developer;Always+Learning+Something+New" />
 </a>
 </p>
-## 📊 GitHub Stats
+📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=Rohit-sn-aug&show_icons=true&theme=tokyonight)
 
